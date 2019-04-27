@@ -69,7 +69,7 @@ div#tableRow{
 }
 #drinks{
   display: table-cell;
-  background-color:#efe5d0;
+  background-color:#444444;
   width:20%;
   padding:15px;
   vertical-align:top;
@@ -128,7 +128,7 @@ nav ul li a:link, nav ul li a:visited{
   font-weight: bold;
 }
 nav ul li.selected{
-  background-color: #c8b99c;
+  background-color: #444444;
 }
 #coupon:hover{
   position:fixed;
