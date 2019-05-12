@@ -128,7 +128,7 @@ nav ul li a:link, nav ul li a:visited{
   font-weight: bold;
 }
 nav ul li.selected{
-  background-color: #444444;
+  background-color: #954b4b;
 }
 #coupon:hover{
   position:fixed;
